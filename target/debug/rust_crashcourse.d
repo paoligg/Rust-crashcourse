@@ -1,0 +1,1 @@
+C:\Users\blanp\OneDrive\ -\ De\ Vinci\Documents\S7\Rust\ Programming\VS\ repo\Rust-crashcourse\target\debug\rust_crashcourse.exe: C:\Users\blanp\OneDrive\ -\ De\ Vinci\Documents\S7\Rust\ Programming\VS\ repo\Rust-crashcourse\src\main.rs
